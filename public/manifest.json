@@ -1,0 +1,27 @@
+{
+  "name": "Flashcards",
+  "short_name": "Chinese",
+  "theme_color": "#00ff00",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
